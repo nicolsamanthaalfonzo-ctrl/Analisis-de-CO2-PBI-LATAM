@@ -36,6 +36,4 @@ Proyecto_Final/
 │   ├── EDA.R                               # Script de procesamiento y EDA
 │   └── 04_analisis_final.R                 # Script del análisis final de desacoplamiento
 ├── README.md                               # Presentación e informe del repositorio
-├── reporte.Rmd                             # Reporte dinámico en RMarkdown
-├── reporte.html                            # Documento Web final
 └── Proyecto_Final.Rproj                    # Proyecto RStudio
