@@ -1,7 +1,7 @@
 # Análisis de Emisiones de CO2 y Desarrollo Económico en América Latina (2000-2022)
 
-**Autora:** Samantha  
-**Curso:** Análisis de Datos con R  
+**Autora:**  Nicol Samantha Alfonzo Orbezo
+**Curso:** Ofimatica 2026- ECONOMAIA 
 **Fuente de Datos:** [Our World in Data (OWID)](https://github.com/owid/co2-data)
 
 ---
